@@ -3,6 +3,16 @@ body {
     background: linear-gradient(90deg, #979685, #403B4A);
     /* border-style: solid; */
 }
+.center h1{
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+  color: white;
+}
+.center h1:hover{
+    color: green;
+}
 .icon-bar a {
       width: 60px;
       height:80px;
