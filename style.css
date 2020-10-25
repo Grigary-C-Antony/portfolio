@@ -52,4 +52,8 @@ body {
     /* background-color: #ddd; */
     color: green;
     }
-    
+ .vl {
+      border-left: 5px solid white;
+      height: 500px;
+      margin-left:26px;
+    }
