@@ -6,8 +6,8 @@ body {
 .center h1{
   margin: auto;
   width: 50%;
-  font-size: 72px;
-  padding: 50px;
+  font-size: 102px;
+ height: 50%;
   color: white;
 }
 .center h1:hover{
